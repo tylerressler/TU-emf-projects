@@ -6,4 +6,4 @@ Statics Project:
   Determine the resultant electric field intensity at a point between two non-parallel plates
 
 Magnetostatics Project:
-  TBD;
+  Determine the resultant magnetic field intensity at a point from a solenoid 
